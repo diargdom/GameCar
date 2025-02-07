@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { Stage, Layer, Rect, Text, Circle, Image } from "react-konva";
+import { Stage, Layer, Rect, Text, Image } from "react-konva";
 import useImage from "use-image";
 
 // Cargar imágenes de los carros
